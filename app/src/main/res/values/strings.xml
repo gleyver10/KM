@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">calculo kilometragem</string>
+    <string name="nomeApp">Cadastro km</string>
+    <string name="inserir">inserir</string>
+    <string name="valor">valor</string>
+    <string name="kilometragemPorMes">KM POR MÊS</string>
+</resources>
